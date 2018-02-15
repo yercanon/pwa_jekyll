@@ -1,8 +1,8 @@
 ---
-title: Jekyll PWA Starter
+title: YerCanon
 timezone: UTC
 destination: _site/
-domainname: https://pwa-jekyll-starter.netlify.com
+domainname: https://yercanon.netlify.com
 baseurl: /
 sitename: My Website
 assetsurl: /static-assets/
