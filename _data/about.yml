@@ -1,22 +1,15 @@
 me:
-  name: Josh Vogt
+  name: YerCanon
   bio: >-
-    This is a bio for use with microformats h-card. This helps other
-    machines understand your content for IndieWeb publishing.
-  webmention: pwa-jekyll-starter.netlify.com
+    The home to YerCanon
+  webmention: yercanon.netlify.com
 social:
-  - name: twitter
-    url: 'https://twitter.com/jshvgt'
-    class: u-url;
   - name: github
-    url: 'https://github.com/dumaurier'
+    url: 'https://github.com/yercanon'
     class: u-url;
   - name: email
-    url: 'mailto:joshvogt@gmail.com'
+    url: 'mailto:yercanon@gmail.com'
     class: u-email
-  - name: sms
-    url: 'sms:+14169671111'
-    class: u-tel
   - name: my site
-    url: 'https://pwa-jekyll-starter.netlify.com/'
+    url: 'https://yercanon.netlify.com/'
     class: u-url
